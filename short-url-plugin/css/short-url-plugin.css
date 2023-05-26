@@ -1,0 +1,11 @@
+.short-url-form {
+    margin-bottom: 20px;
+}
+
+.short-url-result {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+i.copy:hover {
+    cursor: pointer;
+}
